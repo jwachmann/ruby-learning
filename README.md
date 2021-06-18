@@ -1,0 +1,3 @@
+Learning ruby...
+
+Run with `ruby hello.rb`
